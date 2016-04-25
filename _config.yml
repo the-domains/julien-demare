@@ -1,6 +1,6 @@
 name: Julien Demare
 favicon: null
-layout_spectrum: 0.24763
+layout_spectrum: 0.48568
 typography_spectrum: 0.81577
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#c9ac1f'
     - '#2c4e7d'
     - '#6f7656'
-  brandStrength: 0.6981979641132057
-  lightness: 0.7186247874051332
-  saturation: 0.7785481945611537
-  rhythmicContrast: 0.1645537291187793
+  brandStrength: 0.4375
+  lightness: 0.4375
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
