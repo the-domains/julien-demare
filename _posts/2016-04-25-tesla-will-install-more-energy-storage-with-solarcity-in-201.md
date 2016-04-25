@@ -3,17 +3,25 @@ hasPage: false
 inFeed: true
 inNav: false
 description: 'Change of paradigm!'
-dateModified: '2016-04-25T17:03:14.923Z'
+dateModified: '2016-04-25T17:04:46.126Z'
 title: Tesla will install more energy storage with Solarcity in 2016 than the USA installed in 2015
 author:
   - name: John Fitzgerald Weaver
     url: 'https://electrek.co/author/commercialsolarguy/'
     avatar: {}
-datePublished: '2016-04-25T17:04:15.092Z'
+datePublished: '2016-04-25T17:05:42.362Z'
 isBasedOnUrl: 'http://electrek.co/2016/04/25/tesla-solarcity-battery-energy-storage/'
-starred: false
 sourcePath: _posts/2016-04-25-tesla-will-install-more-energy-storage-with-solarcity-in-201.md
 published: true
+inLanguage: null
+keywords: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
