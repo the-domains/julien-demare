@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Julien Demare]]></title>
+        <description><![CDATA[Julien Demare]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Apr 2016 16:59:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New photo added to shared album]]></title>
+            <description><![CDATA[<article><h1>New photo added to shared album</h1><p>Had a blast in the Formula E paddock this weekend in Paris!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44bfe1f9d69a3f643441f687082641a41dc5c5f5.jpg"></article>]]></description>
+            <link>https://goo.gl/photos/EyJsgd66YARFznraA</link>
+            <guid isPermaLink="false">c9ba8a36-462f-4153-8d52-083c3fc616ba</guid>
+            <pubDate>Mon, 25 Apr 2016 16:58:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
