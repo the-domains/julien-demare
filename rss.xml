@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Julien Demare]]></title>
         <description><![CDATA[Julien Demare]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/julien-demare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 16:59:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 17:04:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/julien-demare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tesla will install more energy storage with Solarcity in 2016 than the USA installed in 2015]]></title>
+            <description><![CDATA[<article><h1>Tesla will install more energy storage with Solarcity in 2016 than the USA installed in 2015</h1><p>Change of paradigm!</p><img src="https://electrek.files.wordpress.com/2016/02/solarcity-powerwall-e1455128353401.jpg?w=1600&h=1000#038;h=500"></article>]]></description>
+            <link>http://electrek.co/2016/04/25/tesla-solarcity-battery-energy-storage/</link>
+            <guid isPermaLink="false">30f8f43d-add3-43ad-bcc6-af0c67886727</guid>
+            <pubDate>Mon, 25 Apr 2016 17:04:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New photo added to shared album]]></title>
             <description><![CDATA[<article><h1>New photo added to shared album</h1><p>Had a blast in the Formula E paddock this weekend in Paris!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44bfe1f9d69a3f643441f687082641a41dc5c5f5.jpg"></article>]]></description>
