@@ -1,0 +1,28 @@
+name: Julien Demare
+favicon: null
+layout_spectrum: 0.061876041581854224
+typography_spectrum: 0.862661930732429
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6981979641132057
+  lightness: 0.7186247874051332
+  saturation: 0.7785481945611537
+  rhythmicContrast: 0.1645537291187793
+purpose: []
