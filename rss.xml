@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare]]></description>
         <link>https://thegrid.ai/julien-demare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 10:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 10:35:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/julien-demare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<article><h1>Elon Musk just made a totally mind-blowing change to Tesla's strategy</h1><p>Tesla reported first-quarter earnings on Wednesday, and they were better than expected: Tesla lost less money than analysts thought the company would. After the numbers hit, CEO Elon Musk and his team held a conference call. And Tesla kicked it off with a bang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7bd68ba7916f4f60ea995b1422487c348aa2e96.jpg"></article>]]></description>
             <link>http://uk.businessinsider.com/tesla-mind-blowing-change-strategy-2016-5?r=US&amp;IR=T</link>
             <guid isPermaLink="false">e15987bf-b9e7-4b99-8fbc-5ea5705ac19c</guid>
+            <pubDate>Thu, 05 May 2016 10:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The people who made Siri are readying another big leap in AI]]></title>
+            <description><![CDATA[<article><h1>The people who made Siri are readying another big leap in AI</h1><p>Viv is planned as an open system -- more like the original Siri prior to being purchased by Apple in 2010 -- and currently features links to apps and services like Uber, FTD, SeatGuru and GrubHub. The example in the article describes ordering a pizza from Domino's without so much as making a phone call or opening an app.</p><img src="http://o.aolcdn.com/hss/storage/midas/9394a40be646708cbfaf943ed7bcaa77/203778775/viv-ai-header.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2016/05/05/viv-labs-ai-siri/</link>
+            <guid isPermaLink="false">5d4a84e1-c892-4635-9428-633522f17450</guid>
             <pubDate>Thu, 05 May 2016 10:34:56 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>http://www.engadget.com/2016/04/23/nasa-invests-in-solar-electric-engines/</link>
             <guid isPermaLink="false">e533bd19-1032-4fc7-801c-62148f843dea</guid>
             <pubDate>Mon, 25 Apr 2016 17:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ikea is selling solar panels in UK shops (Wired UK)]]></title>
-            <description><![CDATA[<article><h1>Ikea is selling solar panels in UK shops (Wired UK)</h1><p>All of Ikea's UK stores will be selling solar panels by the end of the year, the company has said. Stores in Birmingham, Grays and Glasgow have started selling selling solar panels, with Manchester and Southampton following in May. The decision comes despite government cuts to feed-in tariffs and a drop in the number of solar installations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1753cd4f8278a461719987ef76d1cf3e6838604d.jpg"></article>]]></description>
-            <link>http://www.wired.co.uk/news/archive/2016-04/25/ikea-solar-panels-uk</link>
-            <guid isPermaLink="false">3201648f-655c-4685-a6ae-4899ed0e647e</guid>
-            <pubDate>Mon, 25 Apr 2016 17:19:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
