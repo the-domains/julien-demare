@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare]]></description>
         <link>https://thegrid.ai/julien-demare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 10:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 18:27:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/julien-demare/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/julien-demare/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Tue, 26 Apr 2016 15:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>And that's why Jessica Alba should hire a Payments Manager https://youtu.be/4r8ojvflcVo?t=23s</p>]]></description>
+            <link>https://thegrid.ai/julien-demare/and-thats-why-jessica-alba-should-hire-a-payments-manager-h/index.html</link>
+            <guid isPermaLink="false">d0c1f419-50b1-428e-a043-ecd45eef6a18</guid>
+            <pubDate>Wed, 11 May 2016 18:27:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Elon Musk just made a totally mind-blowing change to Tesla's strategy]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[The people who made Siri are readying another big leap in AI]]></title>
-            <description><![CDATA[<article><h1>The people who made Siri are readying another big leap in AI</h1><p>Viv is planned as an open system -- more like the original Siri prior to being purchased by Apple in 2010 -- and currently features links to apps and services like Uber, FTD, SeatGuru and GrubHub. The example in the article describes ordering a pizza from Domino's without so much as making a phone call or opening an app.</p><img src="http://o.aolcdn.com/hss/storage/midas/9394a40be646708cbfaf943ed7bcaa77/203778775/viv-ai-header.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The people who made Siri are readying another big leap in AI</h1><p>Viv is planned as an open system -- more like the original Siri prior to being purchased by Apple in 2010 -- and currently features links to apps and services like Uber, FTD, SeatGuru and GrubHub. The example in the article describes ordering a pizza from Domino's without so much as making a phone call or opening an app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2330aee47cec37c4b7f387e74cea70931faebcd7.jpg"></article>]]></description>
             <link>http://www.engadget.com/2016/05/05/viv-labs-ai-siri/</link>
             <guid isPermaLink="false">5d4a84e1-c892-4635-9428-633522f17450</guid>
             <pubDate>Thu, 05 May 2016 10:34:56 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.nytimes.com/interactive/2016/04/21/science/paris-agreement-carbon-dioxide-global-warming.html?rref=collection%2Fsectioncollection%2Fscience&amp;action=click&amp;contentCollection=science&amp;region=stream&amp;module=stream_unit&amp;version=latest&amp;contentPlacement=2&amp;pgtype=sectionfront</link>
             <guid isPermaLink="false">2903d477-bb97-4da1-91f7-6bbae35265f7</guid>
             <pubDate>Tue, 26 Apr 2016 07:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA pours $67 million into solar electric spacecraft engines]]></title>
-            <description><![CDATA[<article><h1>NASA pours $67 million into solar electric spacecraft engines</h1><p>NASA is big on solar electric propulsion (the Dawn spacecraft uses it, for instance) for a good reason: while the engines aren't powerful, they supply thrust for a very long time before giving up the ghost. And it now looks like the agency is ready to double down on that super-efficient tech.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/955bf819334fc01157f0d67a9549a74f525e5e80.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2016/04/23/nasa-invests-in-solar-electric-engines/</link>
-            <guid isPermaLink="false">e533bd19-1032-4fc7-801c-62148f843dea</guid>
-            <pubDate>Mon, 25 Apr 2016 17:24:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
