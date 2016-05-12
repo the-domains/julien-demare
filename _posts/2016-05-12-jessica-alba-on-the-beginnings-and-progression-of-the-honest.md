@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=4r8ojvflcVo&feature=youtu.be&t=23
 inLanguage: null
 keywords: []
 description: "And that's why Jessica Alba needs a Payments Manager"
-datePublished: '2016-05-12T19:56:48.313Z'
-dateModified: '2016-05-12T19:56:27.456Z'
+datePublished: '2016-05-12T19:58:07.821Z'
+dateModified: '2016-05-12T19:57:06.365Z'
 author:
   - name: TechCrunch
     url: 'https://www.youtube.com/user/techcrunch'
