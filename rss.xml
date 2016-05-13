@@ -4,7 +4,7 @@
         <description><![CDATA[Julien  Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 10:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 10:03:59 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Thu, 12 May 2016 20:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Android Pay set for imminent UK launch as Pret A Manger plugs Google mobile payments]]></title>
+            <description><![CDATA[<article><h1>Android Pay set for imminent UK launch as Pret A Manger plugs Google mobile payments</h1><p>Smartphone-wielding shoppers will then be able to pay at retailers equipped with a contactless payment terminal, with their identity verified by their smartphone's fingerprint reader. Stores that will accept it include Pret, Boots, Starbucks, Costa Coffee and Waitrose. You can also use Android Pay on Transport for London services such as the Tube and buses.</p><img src="http://www.telegraph.co.uk/content/dam/technology/2016/05/12/Pret_Android_Pay_terminals-xlarge_trans++EDjTm7JpzhSGR1_8ApEWQA1vLvhkMtVb21dMmpQBfEs.JPG"></article>]]></description>
+            <link>http://www.telegraph.co.uk/technology/2016/05/12/android-pay-set-for-imminent-uk-launch-as-pret-a-manger-plugs-go/</link>
+            <guid isPermaLink="false">b3fa4377-f1a5-4bad-b78f-746d5d592345</guid>
+            <pubDate>Fri, 13 May 2016 10:03:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Discounting is killing online retailers. Here's how one startup is trying to fix that.]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/04/25/the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/</link>
             <guid isPermaLink="false">41b722ce-f75b-432c-84cc-7d3285cd53c9</guid>
             <pubDate>Tue, 26 Apr 2016 14:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can AI fix education? We asked Bill Gates]]></title>
-            <description><![CDATA[<article><h1>Can AI fix education? We asked Bill Gates</h1><p>The rise of smartphones has transformed the way students communicate and entertain themselves. But the classrooms they spend so much of their time in remain stubbornly resistant to transformation. On one hand, technology has long had a home in classrooms - I learned to type on an Apple IIe in the late 1980s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4845fee62baf76213337626e8a29a0f2c756e220.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/4/25/11492102/bill-gates-interview-education-software-artificial-intelligence</link>
-            <guid isPermaLink="false">60a17b9d-3937-4d72-9cba-b67eb5cf3346</guid>
-            <pubDate>Tue, 26 Apr 2016 12:06:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
