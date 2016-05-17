@@ -4,7 +4,7 @@
         <description><![CDATA[Julien  Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 10:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 15:10:37 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 12 May 2016 20:37:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Asian Startups Hit by Venture-Capital Slowdown]]></title>
+            <description><![CDATA[<article><h1>Asian Startups Hit by Venture-Capital Slowdown</h1><p>In early February, Yin Sang, a prominent Chinese entrepreneur, sent an email to all 600 employees at his karaoke-booking startup: His firm was running out of money after failing to raise funds and wouldn't be able to pay staff salaries. "Our cash flow is almost zero," the 23-year-old chief executive of Yiqi Chang wrote in the email, reviewed by...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50029b6fdb53bdfeaad31b3fd2f33c710455128f.jpg"></article>]]></description>
+            <link>http://www.wsj.com/article_email/asian-startups-hit-by-venture-capital-slowdown-1462986692-lMyQjAxMTI2MzE2MTMxOTE1Wj</link>
+            <guid isPermaLink="false">014785ba-8cbf-44a4-a6c8-4c7b598efbb6</guid>
+            <pubDate>Tue, 17 May 2016 15:09:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Android Pay set for imminent UK launch as Pret A Manger plugs Google mobile payments]]></title>
-            <description><![CDATA[<article><h1>Android Pay set for imminent UK launch as Pret A Manger plugs Google mobile payments</h1><p>Smartphone-wielding shoppers will then be able to pay at retailers equipped with a contactless payment terminal, with their identity verified by their smartphone's fingerprint reader. Stores that will accept it include Pret, Boots, Starbucks, Costa Coffee and Waitrose. You can also use Android Pay on Transport for London services such as the Tube and buses.</p><img src="http://www.telegraph.co.uk/content/dam/technology/2016/05/12/Pret_Android_Pay_terminals-xlarge_trans++EDjTm7JpzhSGR1_8ApEWQA1vLvhkMtVb21dMmpQBfEs.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Android Pay set for imminent UK launch as Pret A Manger plugs Google mobile payments</h1><p>Smartphone-wielding shoppers will then be able to pay at retailers equipped with a contactless payment terminal, with their identity verified by their smartphone's fingerprint reader. Stores that will accept it include Pret, Boots, Starbucks, Costa Coffee and Waitrose. You can also use Android Pay on Transport for London services such as the Tube and buses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b6c7896826f479bef17ee885b1cde3efc0d72e8.jpg"></article>]]></description>
             <link>http://www.telegraph.co.uk/technology/2016/05/12/android-pay-set-for-imminent-uk-launch-as-pret-a-manger-plugs-go/</link>
             <guid isPermaLink="false">b3fa4377-f1a5-4bad-b78f-746d5d592345</guid>
             <pubDate>Fri, 13 May 2016 10:03:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://9to5google.com/2016/04/26/google-uber-ford-self-driving-car-regulations/</link>
             <guid isPermaLink="false">cc7deadd-5526-4530-8b56-a689967e2c6f</guid>
             <pubDate>Wed, 27 Apr 2016 07:42:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The driverless truck is coming, and it's going to automate millions of jobs]]></title>
-            <description><![CDATA[<article><h1>The driverless truck is coming, and it's going to automate millions of jobs</h1><p>A convoy of self-driving trucks recently drove across Europe and arrived at the Port of Rotterdam. No technology will automate away more jobs - or drive more economic efficiency - than the driverless truck. Shipping a full truckload from L.A. to New York costs around $4,500 today, with labor representing 75 percent of that cost.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/195ace9555d62a38cbf892e8582226effac569db.png"></article>]]></description>
-            <link>http://techcrunch.com/2016/04/25/the-driverless-truck-is-coming-and-its-going-to-automate-millions-of-jobs/</link>
-            <guid isPermaLink="false">41b722ce-f75b-432c-84cc-7d3285cd53c9</guid>
-            <pubDate>Tue, 26 Apr 2016 14:19:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
