@@ -4,7 +4,7 @@
         <description><![CDATA[Julien  Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 15:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2016 15:10:40 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Thu, 12 May 2016 20:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Internet shows signs of coming back down to earth - FT.com]]></title>
+            <description><![CDATA[<article><h1>Rocket Internet shows signs of coming back down to earth - FT.com</h1><p>In March, Rocket Internet published a prospectus for its new investment fund touting eight "emerging stars" in its portfolio of start-ups. One of them was Paymill, a company that processes online payments. A month later, the start-up filed for</p><img src="http://im.ft-static.com/content/images/5c5098d4-1b73-4068-b865-649f049c5a79.img"></article>]]></description>
+            <link>http://www.ft.com/intl/cms/s/0/50efb818-16cd-11e6-b197-a4af20d5575e.html#axzz48vTQNG1j</link>
+            <guid isPermaLink="false">ae33e7e4-aaac-43ae-bf69-49d9e979fdd0</guid>
+            <pubDate>Tue, 17 May 2016 15:09:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Asian Startups Hit by Venture-Capital Slowdown]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/05/03/payment-startup-zooz-raises-24-million-as-global-fintech-looks-for-standards/</link>
             <guid isPermaLink="false">21613f4c-e433-4d80-a61e-e3ac383370db</guid>
             <pubDate>Wed, 04 May 2016 09:18:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google joins Uber, Ford to promote federal self-driving car regulations]]></title>
-            <description><![CDATA[<article><h1>Google joins Uber, Ford to promote federal self-driving car regulations</h1><p>Google joins Uber, Ford, Volvo and Lyft in forming a Self-Driving Coalition for Safer Streets to promote self driving car regulations on a federal level versus state by state level. Google has been battling the California DMV who have proposed to ban Google's Koala car that does not have a steering wheel or pedals and would not require a licensed driver.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96a2c810cb8c4934a8a154fcbab00088ef51aa8f.jpg"></article>]]></description>
-            <link>http://9to5google.com/2016/04/26/google-uber-ford-self-driving-car-regulations/</link>
-            <guid isPermaLink="false">cc7deadd-5526-4530-8b56-a689967e2c6f</guid>
-            <pubDate>Wed, 27 Apr 2016 07:42:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
