@@ -4,7 +4,7 @@
         <description><![CDATA[Julien  Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 12:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 11:21:40 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Fri, 20 May 2016 12:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Next Global Tech Hotspot? Amsterdam Stakes its Claim]]></title>
+            <description><![CDATA[<article><h1>The Next Global Tech Hotspot? Amsterdam Stakes its Claim</h1><p>Frustrated by the difficulty of finding dates while living in London, Dutchman David Vermeulen started InnerCircle, a matchmaking website focused on highly educated singles. Yet rather than set up in Europe's biggest city, he moved to Amsterdam, home to about 800,000 people and a much smaller pool of potential customers.</p></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-05-22/the-next-global-tech-hotspot-amsterdam-stakes-its-claim</link>
+            <guid isPermaLink="false">b3fedccf-ced7-4ddd-a139-f47864796a6d</guid>
+            <pubDate>Mon, 23 May 2016 11:21:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rocket Internet shows signs of coming back down to earth - FT.com]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.engadget.com/2016/05/05/viv-labs-ai-siri/</link>
             <guid isPermaLink="false">5d4a84e1-c892-4635-9428-633522f17450</guid>
             <pubDate>Thu, 05 May 2016 10:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Payment startup Zooz raises $24 million as global fintech looks for standards]]></title>
-            <description><![CDATA[<article><h1>Payment startup Zooz raises $24 million as global fintech looks for standards</h1><p>As payment solutions proliferate and calls for standardization mount, Israel-based payment platform startup Zooz said it has closed a $24 million led by Target Global Ventures, to expand globally and bolster its products and services. Zooz's series C round more than doubles the total amount invested in the company to $40.5 million, raised in four rounds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faf01de1cbd9f187494a66e8f4fe1721bf6fd673.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/05/03/payment-startup-zooz-raises-24-million-as-global-fintech-looks-for-standards/</link>
-            <guid isPermaLink="false">21613f4c-e433-4d80-a61e-e3ac383370db</guid>
-            <pubDate>Wed, 04 May 2016 09:18:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
