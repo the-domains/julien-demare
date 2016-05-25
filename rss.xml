@@ -4,7 +4,7 @@
         <description><![CDATA[Julien  Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 11:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 12:24:14 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Fri, 20 May 2016 12:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About me</p>]]></description>
+            <link>http://julien-demare.com/about-me/index.html</link>
+            <guid isPermaLink="false">9daef6d9-a6ae-4326-a0bd-c06c902e8fa0</guid>
+            <pubDate>Wed, 25 May 2016 12:24:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Next Global Tech Hotspot? Amsterdam Stakes its Claim]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Elon Musk just made a totally mind-blowing change to Tesla's strategy</h1><p>Tesla reported first-quarter earnings on Wednesday, and they were better than expected: Tesla lost less money than analysts thought the company would. After the numbers hit, CEO Elon Musk and his team held a conference call. And Tesla kicked it off with a bang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7bd68ba7916f4f60ea995b1422487c348aa2e96.jpg"></article>]]></description>
             <link>http://uk.businessinsider.com/tesla-mind-blowing-change-strategy-2016-5?r=US&amp;IR=T</link>
             <guid isPermaLink="false">e15987bf-b9e7-4b99-8fbc-5ea5705ac19c</guid>
-            <pubDate>Thu, 05 May 2016 10:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The people who made Siri are readying another big leap in AI]]></title>
-            <description><![CDATA[<article><h1>The people who made Siri are readying another big leap in AI</h1><p>Viv is planned as an open system -- more like the original Siri prior to being purchased by Apple in 2010 -- and currently features links to apps and services like Uber, FTD, SeatGuru and GrubHub. The example in the article describes ordering a pizza from Domino's without so much as making a phone call or opening an app.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2330aee47cec37c4b7f387e74cea70931faebcd7.jpg"></article>]]></description>
-            <link>http://www.engadget.com/2016/05/05/viv-labs-ai-siri/</link>
-            <guid isPermaLink="false">5d4a84e1-c892-4635-9428-633522f17450</guid>
             <pubDate>Thu, 05 May 2016 10:34:56 GMT</pubDate>
         </item>
     </channel>
