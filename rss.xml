@@ -4,7 +4,7 @@
         <description><![CDATA[Julien  Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 12:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 16:21:22 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 25 May 2016 12:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Visa's CEO just threatened to go after PayPal 'in ways that people have never seen before']]></title>
+            <description><![CDATA[<article><h1>Visa's CEO just threatened to go after PayPal 'in ways that people have never seen before'</h1><p>You can't be friend and foe at the same time.</p><img src="https://cdn0.vox-cdn.com/uploads/chorus_image/image/49673693/451216438.0.jpg"></article>]]></description>
+            <link>http://www.recode.net/2016/5/25/11768854/visa-ceo-paypal-threat</link>
+            <guid isPermaLink="false">0d59d4a1-6627-4ac6-9c0d-25ecff17ac81</guid>
+            <pubDate>Wed, 25 May 2016 16:20:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Fraud is mobile gaming's $6.3B problem - and publishers need to solve it]]></title>
-            <description><![CDATA[<article><h1>Fraud is mobile gaming's $6.3B problem - and publishers need to solve it</h1><p>A gaming studio can easily pay 10 times its development budget on acquiring players, and the frightening truth is that companies are flushing a lot of that cash down the toilet drain. Marketing fraud extracted $6.3 billion from developers last year, and Singaporean publisher GoGame says developers should only work with publishers that understand that problem.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Sonic-GoGame-780x520.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Fraud is mobile gaming's $6.3B problem - and publishers need to solve it</h1><p>A gaming studio can easily pay 10 times its development budget on acquiring players, and the frightening truth is that companies are flushing a lot of that cash down the toilet drain. Marketing fraud extracted $6.3 billion from developers last year, and Singaporean publisher GoGame says developers should only work with publishers that understand that problem.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7b947a9b0e8441af62403890518f9758bed9c95.jpg"></article>]]></description>
             <link>http://venturebeat.com/2016/05/23/fraud-is-mobile-gamings-6-3b-problem-and-publishers-need-to-solve-it/</link>
             <guid isPermaLink="false">fdfa62e8-351a-4778-ad43-a33e0f6da439</guid>
             <pubDate>Wed, 25 May 2016 12:55:23 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://gizmodo.com/watch-the-first-full-scale-demo-of-the-hyperloop-1776048315</link>
             <guid isPermaLink="false">a0d80bd7-bb50-47c1-a658-2bdb4d0c5eed</guid>
             <pubDate>Wed, 11 May 2016 19:13:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk just made a totally mind-blowing change to Tesla's strategy]]></title>
-            <description><![CDATA[<article><h1>Elon Musk just made a totally mind-blowing change to Tesla's strategy</h1><p>Tesla reported first-quarter earnings on Wednesday, and they were better than expected: Tesla lost less money than analysts thought the company would. After the numbers hit, CEO Elon Musk and his team held a conference call. And Tesla kicked it off with a bang.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b7bd68ba7916f4f60ea995b1422487c348aa2e96.jpg"></article>]]></description>
-            <link>http://uk.businessinsider.com/tesla-mind-blowing-change-strategy-2016-5?r=US&amp;IR=T</link>
-            <guid isPermaLink="false">e15987bf-b9e7-4b99-8fbc-5ea5705ac19c</guid>
-            <pubDate>Thu, 05 May 2016 10:34:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
