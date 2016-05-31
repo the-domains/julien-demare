@@ -4,7 +4,7 @@
         <description><![CDATA[E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 16:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 11:06:04 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Wed, 25 May 2016 12:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I moved my startup from San Francisco to San Diego]]></title>
+            <description><![CDATA[<article><h1>How I moved my startup from San Francisco to San Diego</h1><p>Tech giant of the West, soil of the startup, epicenter of the cutting-edge. Companies have long come to the Bay Area to plant their seeds, and for good reason. The stretch of land from Jose to San Francisco encompasses some of the most revolutionary technology in the world, and the best of the best call it home.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/05/movingtruck.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>http://techcrunch.com/2016/05/30/how-i-moved-my-startup-from-san-francisco-to-san-diego/</link>
+            <guid isPermaLink="false">8b3872ea-105d-45ce-8098-e3abc942e6c0</guid>
+            <pubDate>Tue, 31 May 2016 11:05:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Faraday Future Will Continue Cloning Tesla With Development Of A Bay Area Factory]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.recode.net/2016/5/12/11652270/discounting-killing-online-retailers-jackthreads</link>
             <guid isPermaLink="false">2d214965-0673-4d68-ac7d-a3f94fab979e</guid>
             <pubDate>Fri, 13 May 2016 10:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jessica Alba on the beginnings and progression of The Honest Company (clip)]]></title>
-            <description><![CDATA[<article><h1>Jessica Alba on the beginnings and progression of The Honest Company (clip)</h1><p>And that's why Jessica Alba needs a Payments Manager</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c314e7d3245b68181ffde895610604bb04408a71.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=4r8ojvflcVo&amp;feature=youtu.be&amp;t=23s</link>
-            <guid isPermaLink="false">6b8dd057-e93d-4ca7-8de0-5c5946c76f33</guid>
-            <pubDate>Thu, 12 May 2016 19:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
