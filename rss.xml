@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[E-Commerce and Payments Specialist]]></title>
-        <description><![CDATA[E-Commerce and Payments Specialist]]></description>
+        <title><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></title>
+        <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 11:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 20:01:14 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 25 May 2016 12:45:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Salesforce acquires enterprise ecommerce platform Demandware in a $2.8 billion deal]]></title>
+            <description><![CDATA[<article><h1>Salesforce acquires enterprise ecommerce platform Demandware in a $2.8 billion deal</h1><p>Salesforce has acquired enterprise-focused ecommerce platform Demandware in a deal worth $2.8 billion, net of cash acquired, with Salesforce offering $75 per share for all outstanding shares. "Demandware is an amazing company - the global cloud leader in the multi-billion dollar digital commerce market," explained Marc Benioff, chairman and CEO at Salesforce, in a press release.</p><img src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/Salesforce-Dreamforce-780x519.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/06/01/salesforce-acquires-enterprise-ecommerce-platform-demandware-in-a-2-8-billion-deal/</link>
+            <guid isPermaLink="false">159f7001-02a5-4d6b-80b9-dc1e06c754d6</guid>
+            <pubDate>Wed, 01 Jun 2016 20:00:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How I moved my startup from San Francisco to San Diego]]></title>
-            <description><![CDATA[<article><h1>How I moved my startup from San Francisco to San Diego</h1><p>Tech giant of the West, soil of the startup, epicenter of the cutting-edge. Companies have long come to the Bay Area to plant their seeds, and for good reason. The stretch of land from Jose to San Francisco encompasses some of the most revolutionary technology in the world, and the best of the best call it home.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/05/movingtruck.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <description><![CDATA[<article><h1>How I moved my startup from San Francisco to San Diego</h1><p>Tech giant of the West, soil of the startup, epicenter of the cutting-edge. Companies have long come to the Bay Area to plant their seeds, and for good reason. The stretch of land from Jose to San Francisco encompasses some of the most revolutionary technology in the world, and the best of the best call it home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b391d56e961a446e014dc4d2f0ceda833a87d7a.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/05/30/how-i-moved-my-startup-from-san-francisco-to-san-diego/</link>
             <guid isPermaLink="false">8b3872ea-105d-45ce-8098-e3abc942e6c0</guid>
             <pubDate>Tue, 31 May 2016 11:05:39 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Android Pay set for imminent UK launch as Pret A Manger plugs Google mobile payments</h1><p>Smartphone-wielding shoppers will then be able to pay at retailers equipped with a contactless payment terminal, with their identity verified by their smartphone's fingerprint reader. Stores that will accept it include Pret, Boots, Starbucks, Costa Coffee and Waitrose. You can also use Android Pay on Transport for London services such as the Tube and buses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b6c7896826f479bef17ee885b1cde3efc0d72e8.jpg"></article>]]></description>
             <link>http://www.telegraph.co.uk/technology/2016/05/12/android-pay-set-for-imminent-uk-launch-as-pret-a-manger-plugs-go/</link>
             <guid isPermaLink="false">b3fa4377-f1a5-4bad-b78f-746d5d592345</guid>
-            <pubDate>Fri, 13 May 2016 10:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discounting is killing online retailers. Here's how one startup is trying to fix that.]]></title>
-            <description><![CDATA[<article><h1>Discounting is killing online retailers. Here's how one startup is trying to fix that.</h1><p>Mark Walker had two goals for his startup this year: Get its new line of clothing into as many guys' homes as possible and get them to pay full price. He would have to get creative. Walker, after...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/988ae028fd3310793ef9898095a70964649c500a.jpg"></article>]]></description>
-            <link>http://www.recode.net/2016/5/12/11652270/discounting-killing-online-retailers-jackthreads</link>
-            <guid isPermaLink="false">2d214965-0673-4d68-ac7d-a3f94fab979e</guid>
             <pubDate>Fri, 13 May 2016 10:03:14 GMT</pubDate>
         </item>
     </channel>
