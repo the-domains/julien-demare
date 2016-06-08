@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 08:18:32 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[Is Formula E the Future of Racing?]]></title>
-            <description><![CDATA[<article><h1>Is Formula E the Future of Racing?</h1><p>There are only two more races left in Formula E 's second season, making this as good a time as any to review whether electric racing is the future of motorsports. I tend to think it is the future, but there are some definite growing pains to be worked through.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/06/abt-schaeffler-audi-sport.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Is Formula E the Future of Racing?</h1><p>There are only two more races left in Formula E 's second season, making this as good a time as any to review whether electric racing is the future of motorsports. I tend to think it is the future, but there are some definite growing pains to be worked through.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb59ff1541dd2c49c016a4425e084a0f91a8987d.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/06/07/is-formula-e-the-future-of-racing/</link>
             <guid isPermaLink="false">07d3993d-e66b-4283-8f13-942e772a4806</guid>
             <pubDate>Wed, 08 Jun 2016 08:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rakuten to exit the UK, Austria and Spain as global retrenchment continues]]></title>
+            <description><![CDATA[<article><h1>Rakuten to exit the UK, Austria and Spain as global retrenchment continues</h1><p>Rakuten is downsizing its international presence once again after Japan's top e-commerce firm announced plans to shutter its e-commerce businesses in three countries in Europe. The move to close Rakuten.co.uk in the UK and Rakuten.es and Spain, as well as Rakuten's offices in Cambridge and Barcelona, mirrors a similar streamlining decision in February, when the company pulled out of Southeast Asia, restructured its presence in Brazil and wrote down $340 million in assets.</p><img src="https://tctechcrunch2011.files.wordpress.com/2015/11/rakuten.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>http://techcrunch.com/2016/06/07/rakuten-to-exit-the-uk-austria-and-spain-as-global-retrenchment-continues/</link>
+            <guid isPermaLink="false">88f773ef-b9e5-4a65-b06d-60dec82c607b</guid>
+            <pubDate>Wed, 08 Jun 2016 08:17:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Analyst: Twitter M&amp;A Is 'Inevitable' if Current Trends Continue]]></title>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2016/05/23/fraud-is-mobile-gamings-6-3b-problem-and-publishers-need-to-solve-it/</link>
             <guid isPermaLink="false">fdfa62e8-351a-4778-ad43-a33e0f6da439</guid>
             <pubDate>Wed, 25 May 2016 12:55:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Next Global Tech Hotspot? Amsterdam Stakes its Claim]]></title>
-            <description><![CDATA[<article><h1>The Next Global Tech Hotspot? Amsterdam Stakes its Claim</h1><p>Frustrated by the difficulty of finding dates while living in London, Dutchman David Vermeulen started InnerCircle, a matchmaking website focused on highly educated singles. Yet rather than set up in Europe's biggest city, he moved to Amsterdam, home to about 800,000 people and a much smaller pool of potential customers.</p></article>]]></description>
-            <link>http://www.bloomberg.com/news/articles/2016-05-22/the-next-global-tech-hotspot-amsterdam-stakes-its-claim</link>
-            <guid isPermaLink="false">b3fedccf-ced7-4ddd-a139-f47864796a6d</guid>
-            <pubDate>Mon, 23 May 2016 11:21:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
