@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 08:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2016 13:34:44 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 05 Jun 2016 12:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Andreessen Horowitz officially closes its newest fund with $1.5 billion]]></title>
+            <description><![CDATA[<article><h1>Andreessen Horowitz officially closes its newest fund with $1.5 billion</h1><p>In March, we told you that Andreessen Horowitz was targeting $1.5 billion for its fifth and new fund. This morning, the seven-year-old, Sand Hill Road firm is confirming that it has closed on that amount, having secured the capital commitments from its previous investors.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/03/andreessen-horowitz.jpg?w=620"></article>]]></description>
+            <link>http://techcrunch.com/2016/06/10/andreessen-horowitz-officially-closes-its-newest-fund-with-1-5-billion/</link>
+            <guid isPermaLink="false">219206db-0341-43da-9420-669f66e725ea</guid>
+            <pubDate>Sat, 11 Jun 2016 13:34:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Can America Build Its Own LVMH?]]></title>
@@ -68,13 +75,6 @@
             <link>http://jalopnik.com/faraday-future-will-continue-cloning-tesla-with-develop-1778797106</link>
             <guid isPermaLink="false">1cbd4c96-7a49-4ab9-bde9-0c89cf81e108</guid>
             <pubDate>Thu, 26 May 2016 16:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visa's CEO just threatened to go after PayPal 'in ways that people have never seen before']]></title>
-            <description><![CDATA[<article><h1>Visa's CEO just threatened to go after PayPal 'in ways that people have never seen before'</h1><p>You can't be friend and foe at the same time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/78f50c3383e6b16f208ccbe359fdc1940e3ad6c4.jpg"></article>]]></description>
-            <link>http://www.recode.net/2016/5/25/11768854/visa-ceo-paypal-threat</link>
-            <guid isPermaLink="false">0d59d4a1-6627-4ac6-9c0d-25ecff17ac81</guid>
-            <pubDate>Wed, 25 May 2016 16:20:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
