@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 13:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 15:05:07 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 05 Jun 2016 12:21:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Microsoft buys LinkedIn for $26.2 billion]]></title>
+            <description><![CDATA[<article><h1>Microsoft buys LinkedIn for $26.2 billion</h1><p>Microsoft missed the mobile wave. Now Satya Nadella says he's going to spend a ton of money to help it keep up in the services business. The Microsoft CEO is buying LinkedIn, the professional...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d969ec0ab48faa54d38bdfae86d55bf5c36c6acf.jpg"></article>]]></description>
+            <link>http://www.recode.net/2016/6/13/11920142/microsoft-buys-linkedin-for-26-2-billion</link>
+            <guid isPermaLink="false">6e57763c-45d2-4514-8846-d64e577a4f20</guid>
+            <pubDate>Mon, 13 Jun 2016 15:05:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Andreessen Horowitz officially closes its newest fund with $1.5 billion]]></title>
-            <description><![CDATA[<article><h1>Andreessen Horowitz officially closes its newest fund with $1.5 billion</h1><p>In March, we told you that Andreessen Horowitz was targeting $1.5 billion for its fifth and new fund. This morning, the seven-year-old, Sand Hill Road firm is confirming that it has closed on that amount, having secured the capital commitments from its previous investors.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/03/andreessen-horowitz.jpg?w=620"></article>]]></description>
+            <description><![CDATA[<article><h1>Andreessen Horowitz officially closes its newest fund with $1.5 billion</h1><p>In March, we told you that Andreessen Horowitz was targeting $1.5 billion for its fifth and new fund. This morning, the seven-year-old, Sand Hill Road firm is confirming that it has closed on that amount, having secured the capital commitments from its previous investors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c84000699dadb24c4016289b4a8039c145272b23.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/06/10/andreessen-horowitz-officially-closes-its-newest-fund-with-1-5-billion/</link>
             <guid isPermaLink="false">219206db-0341-43da-9420-669f66e725ea</guid>
             <pubDate>Sat, 11 Jun 2016 13:34:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/05/30/how-i-moved-my-startup-from-san-francisco-to-san-diego/</link>
             <guid isPermaLink="false">8b3872ea-105d-45ce-8098-e3abc942e6c0</guid>
             <pubDate>Tue, 31 May 2016 11:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Faraday Future Will Continue Cloning Tesla With Development Of A Bay Area Factory]]></title>
-            <description><![CDATA[<article><h1>Faraday Future Will Continue Cloning Tesla With Development Of A Bay Area Factory</h1><p>After breaking ground on a billion dollar factory in Sparks, Nevada earlier this month, Faraday Future is now working a deal on a second facility in Vallejo, California. So-a Bay Area factory and a larger Nevada-based factory. Sound familiar? Oh yea! That's Tesla's deal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5b17bfc0e16d92f1190ec8e892cbdb3ccd717ae.jpg"></article>]]></description>
-            <link>http://jalopnik.com/faraday-future-will-continue-cloning-tesla-with-develop-1778797106</link>
-            <guid isPermaLink="false">1cbd4c96-7a49-4ab9-bde9-0c89cf81e108</guid>
-            <pubDate>Thu, 26 May 2016 16:12:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
