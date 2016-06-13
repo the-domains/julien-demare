@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 15:53:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 18:00:09 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Mon, 13 Jun 2016 15:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silicon Valley's Audacious Plan to Create a New Stock Exchange]]></title>
+            <description><![CDATA[<article><h1>Silicon Valley's Audacious Plan to Create a New Stock Exchange</h1><p>Five years ago, when Eric Ries was working on the book that would become his best-selling entrepreneurship manifesto "The Lean Startup," he floated a provocative idea in the epilogue: Someone should build a new, "long-term" stock exchange. Its reforms, he wrote, would amend the frantic quarterly cycle to encourage investors and companies to make better decisions for the years ahead.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/201d6f23a25bfdb957f65830fcb391360178cefb.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-06-12/silicon-valley-s-audacious-plan-to-create-a-new-stock-exchange</link>
+            <guid isPermaLink="false">87c19968-3e2b-43b6-b671-dca66e09c944</guid>
+            <pubDate>Mon, 13 Jun 2016 18:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Microsoft buys LinkedIn for $26.2 billion]]></title>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2016/06/01/salesforce-acquires-enterprise-ecommerce-platform-demandware-in-a-2-8-billion-deal/</link>
             <guid isPermaLink="false">159f7001-02a5-4d6b-80b9-dc1e06c754d6</guid>
             <pubDate>Wed, 01 Jun 2016 20:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How I moved my startup from San Francisco to San Diego]]></title>
-            <description><![CDATA[<article><h1>How I moved my startup from San Francisco to San Diego</h1><p>Tech giant of the West, soil of the startup, epicenter of the cutting-edge. Companies have long come to the Bay Area to plant their seeds, and for good reason. The stretch of land from Jose to San Francisco encompasses some of the most revolutionary technology in the world, and the best of the best call it home.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b391d56e961a446e014dc4d2f0ceda833a87d7a.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/05/30/how-i-moved-my-startup-from-san-francisco-to-san-diego/</link>
-            <guid isPermaLink="false">8b3872ea-105d-45ce-8098-e3abc942e6c0</guid>
-            <pubDate>Tue, 31 May 2016 11:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
