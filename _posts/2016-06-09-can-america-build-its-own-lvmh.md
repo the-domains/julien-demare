@@ -10,8 +10,8 @@ description: >-
   How the next big luxury group will emerge from the US by creating brands and
   scaling them quickly through E-Commerce VS the old European way of acquiring
   brands and investing massively in real-estate.
-datePublished: '2016-06-13T18:19:32.124Z'
-dateModified: '2016-06-13T18:19:20.487Z'
+datePublished: '2016-06-13T18:20:38.057Z'
+dateModified: '2016-06-13T18:20:32.191Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-09-can-america-build-its-own-lvmh.md
