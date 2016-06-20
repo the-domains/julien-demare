@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 12:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 15:24:27 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Mon, 13 Jun 2016 15:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris isn't happy about Amazon's one-hour delivery service]]></title>
+            <description><![CDATA[<article><h1>Paris isn't happy about Amazon's one-hour delivery service</h1><p>The mayor of Paris this week issued a stern warning to Amazon over its express delivery service, raising concerns over its impact on local businesses and criticizing the US company for informing authorities "only a few days" before it launched.</p><img src="https://cdn1.vox-cdn.com/thumbor/JiO6VMGkC9hJm9g34U4hKfMLUyw=/0x51:1019x624/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49897771/amazon-box-logo-stock-2_1020.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/6/20/11975404/amazon-prime-now-paris-mayor-delivery</link>
+            <guid isPermaLink="false">e58e18c3-0030-4c79-82e7-9c2ca631f56b</guid>
+            <pubDate>Mon, 20 Jun 2016 15:24:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon preparing to expand into Indonesia: E-commerce Association Chairman]]></title>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/06/07/is-formula-e-the-future-of-racing/</link>
             <guid isPermaLink="false">07d3993d-e66b-4283-8f13-942e772a4806</guid>
             <pubDate>Wed, 08 Jun 2016 08:17:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rakuten to exit the UK, Austria and Spain as global retrenchment continues]]></title>
-            <description><![CDATA[<article><h1>Rakuten to exit the UK, Austria and Spain as global retrenchment continues</h1><p>Rakuten is downsizing its international presence once again after Japan's top e-commerce firm announced plans to shutter its e-commerce businesses in three countries in Europe. The move to close Rakuten.co.uk in the UK and Rakuten.es and Spain, as well as Rakuten's offices in Cambridge and Barcelona, mirrors a similar streamlining decision in February, when the company pulled out of Southeast Asia, restructured its presence in Brazil and wrote down $340 million in assets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b427bad0fc48fb90ae10d94c1d073f6b6d4dc4a.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/06/07/rakuten-to-exit-the-uk-austria-and-spain-as-global-retrenchment-continues/</link>
-            <guid isPermaLink="false">88f773ef-b9e5-4a65-b06d-60dec82c607b</guid>
-            <pubDate>Wed, 08 Jun 2016 08:17:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
