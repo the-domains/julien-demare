@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 18:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 10:30:35 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Fri, 24 Jun 2016 18:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rocket Internet merges ecommerce sites Daraz and Kaymu across Asia - The Express Tribune]]></title>
+            <description><![CDATA[<article><h1>Rocket Internet merges ecommerce sites Daraz and Kaymu across Asia - The Express Tribune</h1><p>German startup juggernaut Rocket Internet announced today the merger of its ecommerce marketplaces Daraz and Kaymu under a new entity Daraz Group. Both Daraz and Kaymu operate in frontier markets in Asia. Daraz, which is a managed marketplace fashioned on the likes of Lazada, is currently operational in Pakistan, Bangladesh, and Myanmar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bc7a46ea65e3503129eb17ebdc4d18e7/noop.jpg?input=http%3A%2F%2Fi1.tribune.com.pk%2Fwp-content%2Fuploads%2F2016%2F06%2F1129314-rocketinternet-1466753272-419-640x480.jpg"></article>]]></description>
+            <link>http://tribune.com.pk/story/1129314/rocket-internet-merges-ecommerce-sites-daraz-kaymu-across-asia/</link>
+            <guid isPermaLink="false">8c69bdde-9ec9-46d4-8791-e2c1a52ec3e0</guid>
+            <pubDate>Sun, 26 Jun 2016 10:30:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christopher Kane's Next Milestone: E-Commerce]]></title>
@@ -68,13 +75,6 @@
             <link>http://jakarta.coconuts.co/2016/06/20/amazon-preparing-expand-indonesia-e-commerce-association-chairman</link>
             <guid isPermaLink="false">890ddee2-c3ac-4b44-884b-d9531e560096</guid>
             <pubDate>Mon, 20 Jun 2016 12:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A look at Amsterdam's electric startup scene]]></title>
-            <description><![CDATA[<article><h1>A look at Amsterdam's electric startup scene</h1><p>After my recent coverage of virtual reality startups in the Netherlands, a wave of curiosity splashed into my inbox with people asking for insights about the secret sauce the government and private sector have in their hands. What is the formula that has allowed the country to catapult onto the center stage of the global startup scene in these past few years?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e7ca048eb17a2f994ae32ca4a4185778/noop.jpg?input=https%3A%2F%2Fventurebeat.com%2Fwp-content%2Fuploads%2F2016%2F06%2Famsterdam-flag-780x429.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2016/06/19/a-look-at-amsterdams-electric-startup-scene/</link>
-            <guid isPermaLink="false">991bacf8-311e-4830-b6b5-8d73cd23b7bb</guid>
-            <pubDate>Sun, 19 Jun 2016 16:58:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
