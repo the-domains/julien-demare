@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 10:56:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 19:29:11 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit could be a huge setback for European startups]]></title>
+            <description><![CDATA[<article><h1>Brexit could be a huge setback for European startups</h1><p>To understand why the recent Brexit vote is a gigantic step in the wrong direction for European startups, take a close look at Outfittery, a Berlin-based ecommerce company. The Outfittery, founded in 2012 by Anna Alex and Julia Bösch to deliver a personalized fashion shopping experience, has raised more than $38 million in venture capital and has enjoyed steady growth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da30c545d259eb2c6af6a985441fb18a/noop.jpg?input=https%3A%2F%2Fventurebeat.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbrexit-780x533.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2016/06/27/brexit-could-be-a-huge-setback-for-european-startups/</link>
+            <guid isPermaLink="false">f58e0039-14e1-481d-9391-d497abd5b22c</guid>
+            <pubDate>Mon, 27 Jun 2016 19:29:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Recursive Product Strategy That Musk Used To Build An Empire]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.techinasia.com/southeast-asian-ecommerce-reach-level</link>
             <guid isPermaLink="false">451e2e9c-3ac5-42de-abb9-6814a3550b23</guid>
             <pubDate>Mon, 20 Jun 2016 15:41:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paris isn't happy about Amazon's one-hour delivery service]]></title>
-            <description><![CDATA[<article><h1>Paris isn't happy about Amazon's one-hour delivery service</h1><p>The mayor of Paris this week issued a stern warning to Amazon over its express delivery service, raising concerns over its impact on local businesses and criticizing the US company for informing authorities "only a few days" before it launched.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f132b94e37244f404134573a434ba74/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FJiO6VMGkC9hJm9g34U4hKfMLUyw%3D%2F0x51%3A1019x624%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F49897771%2Famazon-box-logo-stock-2_1020.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/6/20/11975404/amazon-prime-now-paris-mayor-delivery</link>
-            <guid isPermaLink="false">e58e18c3-0030-4c79-82e7-9c2ca631f56b</guid>
-            <pubDate>Mon, 20 Jun 2016 15:24:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
