@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 08:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 08:55:28 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A PayPal Takeover by MasterCard Would 'Destroy Value,' Bernstein Says]]></title>
+            <description><![CDATA[<article><h1>A PayPal Takeover by MasterCard Would 'Destroy Value,' Bernstein Says</h1><p>It's extremely unlikely that MasterCard Inc. would buy out PayPal Holdings Inc., Bernstein analyst Lisa Ellis wrote in an e-mail Tuesday amid speculation that a deal may be on the table. Bringing the competitors together wouldn't make strategic sense since the two business models are so different, she said.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15314d80f3d681dbf48d37c86c9e6f2b/croprotate.jpg?cropheight=1295&cropwidth=2200&degrees=0&input=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fiv5jlfieWsEg%2Fv1%2F-1x-1.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-06-29/a-paypal-takeover-by-mastercard-would-destroy-value-bernstein-says</link>
+            <guid isPermaLink="false">488768e7-3172-494d-850a-abf04f586226</guid>
+            <pubDate>Fri, 01 Jul 2016 08:55:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple CEO Tim Cook Joins Nike as Lead Independent Director]]></title>
@@ -68,13 +75,6 @@
             <link>http://fortune.com/ken-chenault-american-express/</link>
             <guid isPermaLink="false">27a7d4d7-2c4e-4908-b40f-2bd699bc3039</guid>
             <pubDate>Tue, 21 Jun 2016 21:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Breaking: Tesla Makes an Offer to Acquire SolarCity]]></title>
-            <description><![CDATA[<article><h1>Breaking: Tesla Makes an Offer to Acquire SolarCity</h1><p>updating... Tesla Makes Offer to Acquire SolarCity Tesla's mission has always been tied to sustainability. We seek to accelerate the world's transition to sustainable transportation by offering increasingly affordable electric vehicles. And in March 2015, we launched Tesla Energy, which through the Powerwall and Powerpack allow homeowners, business owners and utilities to benefit from renewable energy storage.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3a57ada5f1ef5d8ac8e43d49593840d/noop.jpg?input=https%3A%2F%2Fi0.wp.com%2Felectrek.files.wordpress.com%2F2016%2F02%2Fsolarcity-powerwall-e1455128353401.jpg%3Ffit%3D440%252C330%26ssl%3D1"></article>]]></description>
-            <link>http://electrek.co/2016/06/21/breaking-tesla-makes-an-offer-to-acquire-solarcity/</link>
-            <guid isPermaLink="false">a23642c7-455d-4b60-b98c-316fb091883d</guid>
-            <pubDate>Tue, 21 Jun 2016 21:17:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
