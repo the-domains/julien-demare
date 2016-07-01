@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 19:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 08:55:22 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple CEO Tim Cook Joins Nike as Lead Independent Director]]></title>
+            <description><![CDATA[<article><h1>Apple CEO Tim Cook Joins Nike as Lead Independent Director</h1><p>Today has proven to be quite the busy day for Nike. In addition to the official departure of Founder, Phil Knight, who will be replaced by Mark Parker who will continue to serve in the role of President and CEO - in addition to his new duties as Chairman - the Swoosh has also made public that Apple CEO, Tim Cook, will become Nike's Lead Independent Director after serving as chair of the board's compensation committee up until this point.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e9a7dcfac81eb290a4fcd64623ce297a/noop.jpg?input=http%3A%2F%2Fstatic.highsnobiety.com%2Fwp-content%2Fuploads%2F2016%2F07%2F01012957%2Ftim-cook-joins-nike-00.jpg"></article>]]></description>
+            <link>http://www.highsnobiety.com/2016/07/01/tim-cook-joins-nike/</link>
+            <guid isPermaLink="false">f0c891a5-1044-48db-b1e3-dab778c1801b</guid>
+            <pubDate>Fri, 01 Jul 2016 08:55:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brexit could be a huge setback for European startups]]></title>
@@ -68,13 +75,6 @@
             <link>http://electrek.co/2016/06/21/breaking-tesla-makes-an-offer-to-acquire-solarcity/</link>
             <guid isPermaLink="false">a23642c7-455d-4b60-b98c-316fb091883d</guid>
             <pubDate>Tue, 21 Jun 2016 21:17:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Southeast Asian ecommerce is about to reach a whole new level]]></title>
-            <description><![CDATA[<article><h1>Southeast Asian ecommerce is about to reach a whole new level</h1><p>All of a sudden, online payments in Southeast Asia has gotten much more interesting. Bloomberg reported that Ant Financial, a financial company under Alibaba, plans to buy a 20 percent stake in a Thai payments company: Alibaba Group Holding Ltd.'s financial affiliate is planning to purchase a 20 percent stake in Thailand's Ascend Money in a bid to become a key financial services player in Southeast Asia.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7c33847d4e743c48ae2a028d9e224245/noop.jpg?input=https%3A%2F%2Fcdn.techinasia.com%2Fwp-content%2Fuploads%2F2015%2F12%2Falibaba-investments-2015-jack-ma-yuan.jpg"></article>]]></description>
-            <link>https://www.techinasia.com/southeast-asian-ecommerce-reach-level</link>
-            <guid isPermaLink="false">451e2e9c-3ac5-42de-abb9-6814a3550b23</guid>
-            <pubDate>Mon, 20 Jun 2016 15:41:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
