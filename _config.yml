@@ -1,20 +1,4 @@
-name: Julien Demare
-favicon: null
-layout_spectrum: 0.49984
 typography_spectrum: 0.75112
-title: Julien Demare - E-Commerce and Payments Specialist
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-48816933-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,22 @@ color:
   lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49984
+analytics:
+  google: UA-48816933-2
+  facebook: null
+  twitter: null
+author:
+  name: Julien Demare
+name: Julien Demare
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Julien Demare - E-Commerce and Payments Specialist
 purpose: []
