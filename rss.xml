@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 08:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2016 11:22:47 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bidroom secures €1 million funding, goes global this year #NLTech]]></title>
+            <description><![CDATA[<article><h1>Bidroom secures €1 million funding, goes global this year #NLTech</h1><p>A Booking-com-killer might seem a bit over-ambitious. But while they are not quite there yet, travel-startup Bidroom is still going strong, and growing fast. Today the company, based in The Hague, announces it raised €1 million from informal investors.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f78f8d09cb2d4ff695dbb974c3ffce56/noop.jpg?input=http%3A%2F%2Fsiliconcanals.nl%2Fwp-content%2Fuploads%2F2015%2F04%2Fbidroom.jpg"></article>]]></description>
+            <link>http://siliconcanals.nl/startups/bidroom-1-million-funding-global/?utm_content=bufferf0d39&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">51dbd5e5-8ade-4054-b995-86e0326b7201</guid>
+            <pubDate>Sat, 02 Jul 2016 11:22:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A PayPal Takeover by MasterCard Would 'Destroy Value,' Bernstein Says]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.pymnts.com/news/partnerships-acquisitions/2016/visa-acquisition-visa-europe/</link>
             <guid isPermaLink="false">599c3424-aed4-412e-94e4-600cb4391482</guid>
             <pubDate>Wed, 22 Jun 2016 08:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Last Stand of Ken Chenault]]></title>
-            <description><![CDATA[<article><h1>The Last Stand of Ken Chenault</h1><p>Illustration by Jules Julien When Liu Yiqian, 52, a chain-smoking former taxi driver, purchased Modigliani's 1917 oil on canvas "Nu Couché" last November for a stunning $170.4 million, the Chinese billionaire made headlines around the world-not only because the purchase price was the second highest ever paid at auction for a painting but also because Liu used his American Express card to buy it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90124f86bd92f36322dac0fdafc65d9f/croprotate.png?cropheight=1454&cropwidth=2520&degrees=0&input=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2016%2F06%2Fken_opener_illo.png&x=0&y=0"></article>]]></description>
-            <link>http://fortune.com/ken-chenault-american-express/</link>
-            <guid isPermaLink="false">27a7d4d7-2c4e-4908-b40f-2bd699bc3039</guid>
-            <pubDate>Tue, 21 Jun 2016 21:43:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
