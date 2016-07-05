@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 20:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 23:08:57 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon Is Quietly Eliminating List Prices]]></title>
+            <description><![CDATA[<article><h1>Amazon Is Quietly Eliminating List Prices</h1><p>"They still need to showcase deals, but the question is, How?" said Michael Kovarik, who runs a comparison-pricing start-up called Rout. That is why stores love big discounts: they work. In studies by Mr. Compeau and others, the perception of a deal is often what makes the purchase happen.</p><img src="https://static01.nyt.com/images/2016/07/04/business/04amazon1/04amazon1-facebookJumbo.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/07/04/business/amazon-is-quietly-eliminating-list-prices.html?_r=0</link>
+            <guid isPermaLink="false">f2862686-8709-4439-b2e4-c342b67ace67</guid>
+            <pubDate>Tue, 05 Jul 2016 23:08:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In a year, Amazon and Alibaba will dominate Indian ecommerce: Vijay Shekhar Sharma - The Economic Times]]></title>
@@ -68,13 +75,6 @@
             <link>http://tribune.com.pk/story/1129314/rocket-internet-merges-ecommerce-sites-daraz-kaymu-across-asia/</link>
             <guid isPermaLink="false">8c69bdde-9ec9-46d4-8791-e2c1a52ec3e0</guid>
             <pubDate>Sun, 26 Jun 2016 10:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Christopher Kane's Next Milestone: E-Commerce]]></title>
-            <description><![CDATA[<article><h1>Christopher Kane's Next Milestone: E-Commerce</h1><p>LONDON, United Kingdom - "I never want to be that person who's taking advantage or seen to be derivative... I think that's the whole point of being creative," says designer Christopher Kane. "It's not about being lazy anymore, especially in this day and age. People just want newness - they strive for it.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a53e7c91a499df27463db2b2ca08a1f/noop.jpg?input=https%3A%2F%2Fimg.businessoffashion.com%2F1024%2F576%2Fmagic%2Fsite%2Fuploads%2F2016%2F06%2FChristopher_Kane_Thumbnail.jpg"></article>]]></description>
-            <link>https://www.businessoffashion.com/articles/video/christopher-kane-launches-e-commerce</link>
-            <guid isPermaLink="false">75d016e7-bad0-4e3d-a9ad-88aec77b84c4</guid>
-            <pubDate>Thu, 23 Jun 2016 18:02:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
