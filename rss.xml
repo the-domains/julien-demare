@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 15:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 19:46:07 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Startups need to respect the laws of retail physics]]></title>
+            <description><![CDATA[<article><h1>Startups need to respect the laws of retail physics</h1><p>Startups like Warby Parker, Bonobos and Casper have proven that it's possible to build a modern brand predominately using digital tools. As a result, a flood of early-stage tech VCs have barged into the market like Walmart shoppers on Black Friday. Andy Dunn of Bonobos recently christened this class of company as Digitally Native Vertical Brands, or "DNVBs."</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/07/hanger.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>https://techcrunch.com/2016/07/05/startups-need-to-respect-the-laws-of-retail-physics/</link>
+            <guid isPermaLink="false">454bedae-c86b-4177-b594-5e969591f375</guid>
+            <pubDate>Tue, 05 Jul 2016 19:44:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In a year, Amazon and Alibaba will dominate Indian ecommerce: Vijay Shekhar Sharma - The Economic Times]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.businessoffashion.com/articles/video/christopher-kane-launches-e-commerce</link>
             <guid isPermaLink="false">75d016e7-bad0-4e3d-a9ad-88aec77b84c4</guid>
             <pubDate>Thu, 23 Jun 2016 18:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Navigating India's Tricky E-Commerce Subscription Waters]]></title>
-            <description><![CDATA[<article><h1>Navigating India's Tricky E-Commerce Subscription Waters</h1><p>India's market for subscription-based ecommerce is an unusual one - there are rather incomprehensible guidelines on payments from the country's reserve bank, and there are a lot of people who have never heard of the kinds of subscription options they could be signing up for.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b06871a1c4ed49c46e423575a997f611/noop.jpg?input=http%3A%2F%2Fblogs-images.forbes.com%2Fabehal%2Ffiles%2F2016%2F06%2FMat-Alex1-e1466573860872.jpg"></article>]]></description>
-            <link>http://www.forbes.com/sites/abehal/2016/06/22/navigating-indias-tricky-ecommerce-subscription-waters/#603837d8453b</link>
-            <guid isPermaLink="false">c235fac8-011f-419a-9bf5-607ca75fb177</guid>
-            <pubDate>Thu, 23 Jun 2016 09:34:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
