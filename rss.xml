@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 23:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 15:35:53 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Car wars: The battle for automotive tech]]></title>
+            <description><![CDATA[<article><h1>Car wars: The battle for automotive tech</h1><p>The communications capabilities of today's cars is about to surpass any device we own.</p><img src="https://cdn1.vox-cdn.com/uploads/chorus_image/image/50040019/Brexit_Thomas_20Lohnes.0.jpg"></article>]]></description>
+            <link>http://www.recode.net/2016/7/7/12107608/car-wars-automous-automotive-tech-intel-mobileye</link>
+            <guid isPermaLink="false">6b50f8e4-06bf-4274-8c6a-27d52e8ffd00</guid>
+            <pubDate>Thu, 07 Jul 2016 15:34:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Amazon Is Quietly Eliminating List Prices]]></title>
-            <description><![CDATA[<article><h1>Amazon Is Quietly Eliminating List Prices</h1><p>"They still need to showcase deals, but the question is, How?" said Michael Kovarik, who runs a comparison-pricing start-up called Rout. That is why stores love big discounts: they work. In studies by Mr. Compeau and others, the perception of a deal is often what makes the purchase happen.</p><img src="https://static01.nyt.com/images/2016/07/04/business/04amazon1/04amazon1-facebookJumbo.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Amazon Is Quietly Eliminating List Prices</h1><p>"They still need to showcase deals, but the question is, How?" said Michael Kovarik, who runs a comparison-pricing start-up called Rout. That is why stores love big discounts: they work. In studies by Mr. Compeau and others, the perception of a deal is often what makes the purchase happen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/891ad7f1f3086934ddb400bb8fd137fd/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F07%2F04%2Fbusiness%2F04amazon1%2F04amazon1-facebookJumbo.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.nytimes.com/2016/07/04/business/amazon-is-quietly-eliminating-list-prices.html?_r=0</link>
             <guid isPermaLink="false">f2862686-8709-4439-b2e4-c342b67ace67</guid>
             <pubDate>Tue, 05 Jul 2016 23:08:08 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://firstround.com/review/the-recursive-product-strategy-that-musk-used-to-build-an-empire/</link>
             <guid isPermaLink="false">97b352a1-1ffb-44d7-a053-500d47a3f686</guid>
             <pubDate>Sun, 26 Jun 2016 10:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rocket Internet merges ecommerce sites Daraz and Kaymu across Asia - The Express Tribune]]></title>
-            <description><![CDATA[<article><h1>Rocket Internet merges ecommerce sites Daraz and Kaymu across Asia - The Express Tribune</h1><p>German startup juggernaut Rocket Internet announced today the merger of its ecommerce marketplaces Daraz and Kaymu under a new entity Daraz Group. Both Daraz and Kaymu operate in frontier markets in Asia. Daraz, which is a managed marketplace fashioned on the likes of Lazada, is currently operational in Pakistan, Bangladesh, and Myanmar.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bc7a46ea65e3503129eb17ebdc4d18e7/noop.jpg?input=http%3A%2F%2Fi1.tribune.com.pk%2Fwp-content%2Fuploads%2F2016%2F06%2F1129314-rocketinternet-1466753272-419-640x480.jpg"></article>]]></description>
-            <link>http://tribune.com.pk/story/1129314/rocket-internet-merges-ecommerce-sites-daraz-kaymu-across-asia/</link>
-            <guid isPermaLink="false">8c69bdde-9ec9-46d4-8791-e2c1a52ec3e0</guid>
-            <pubDate>Sun, 26 Jun 2016 10:30:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
