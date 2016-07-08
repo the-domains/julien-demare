@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 15:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 08:51:41 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Apple Pay launches in Switzerland with Visa and Mastercard support]]></title>
+            <description><![CDATA[<article><h1>Apple Pay launches in Switzerland with Visa and Mastercard support</h1><p>As promised in June, Apple on Thursday introduced its in-house payments solution Apple Pay to customers in Switzerland, offering initial support for both Visa and Mastercard credit cards. Announced through Apple's regional website, iPhone users in Switzerland who are also customers of Bonus Card, Cornercard or Swiss Bankers can now provision their credit and prepaid cards for Apple Pay.</p><img src="http://photos.appleinsidercdn.com/gallery/17482-15046-17229-14516-applepay-switzerlandiphone-l-xl.jpg"></article>]]></description>
+            <link>http://iphone.appleinsider.com/articles/16/07/07/apple-pay-launches-in-switzerland-with-visa-and-mastercard-support</link>
+            <guid isPermaLink="false">51de2d07-1c2b-4e14-be55-0dde80d6dbcd</guid>
+            <pubDate>Fri, 08 Jul 2016 08:51:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Car wars: The battle for automotive tech]]></title>
-            <description><![CDATA[<article><h1>Car wars: The battle for automotive tech</h1><p>The communications capabilities of today's cars is about to surpass any device we own.</p><img src="https://cdn1.vox-cdn.com/uploads/chorus_image/image/50040019/Brexit_Thomas_20Lohnes.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Car wars: The battle for automotive tech</h1><p>The communications capabilities of today's cars is about to surpass any device we own.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69a95de2cf9d1cca90cb0f1318826742/croprotate.jpg?cropheight=3282&cropwidth=4928&degrees=0&input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50040019%2FBrexit_Thomas_20Lohnes.0.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.recode.net/2016/7/7/12107608/car-wars-automous-automotive-tech-intel-mobileye</link>
             <guid isPermaLink="false">6b50f8e4-06bf-4274-8c6a-27d52e8ffd00</guid>
             <pubDate>Thu, 07 Jul 2016 15:34:39 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://venturebeat.com/2016/06/27/brexit-could-be-a-huge-setback-for-european-startups/</link>
             <guid isPermaLink="false">f58e0039-14e1-481d-9391-d497abd5b22c</guid>
             <pubDate>Mon, 27 Jun 2016 19:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Recursive Product Strategy That Musk Used To Build An Empire]]></title>
-            <description><![CDATA[<article><h1>The Recursive Product Strategy That Musk Used To Build An Empire</h1><p>This article is by Vinny Lingham , co-founder and CEO of personal identity protection startup Civic Build sports car Use that money to build an affordable car Use that money to build an even more affordable car While doing above, also provide zero emission electric power generation options Don't tell anyone.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/db23f4c9c9e2205726c07eabd8d2a6d7/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FtUeAPVbERrqg0OigeHNV_Vinny%2520Hero%2520.jpg"></article>]]></description>
-            <link>http://firstround.com/review/the-recursive-product-strategy-that-musk-used-to-build-an-empire/</link>
-            <guid isPermaLink="false">97b352a1-1ffb-44d7-a053-500d47a3f686</guid>
-            <pubDate>Sun, 26 Jun 2016 10:53:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
