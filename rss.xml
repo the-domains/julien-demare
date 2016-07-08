@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 08:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 13:27:58 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Richard Branson: All cars electric by 2030]]></title>
+            <description><![CDATA[<article><h1>Richard Branson: All cars electric by 2030</h1><p>Join @NickiShields for the final Supercharged show of the 2015-16 season on July 10, 18:30 GMT on CNNi British entrepreneur Branson has been involved in the motorsport series from an early stage, with his DS Virgin Racing team competing in its first two seasons.</p><img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160707181122-branson-shields-large-tease.jpg"></article>]]></description>
+            <link>http://edition.cnn.com/2016/07/08/motorsport/richard-branson-formula-e/</link>
+            <guid isPermaLink="false">98640042-cf33-42a6-b8f8-3ce4ab8ac33a</guid>
+            <pubDate>Fri, 08 Jul 2016 13:27:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Apple Pay launches in Switzerland with Visa and Mastercard support]]></title>
-            <description><![CDATA[<article><h1>Apple Pay launches in Switzerland with Visa and Mastercard support</h1><p>As promised in June, Apple on Thursday introduced its in-house payments solution Apple Pay to customers in Switzerland, offering initial support for both Visa and Mastercard credit cards. Announced through Apple's regional website, iPhone users in Switzerland who are also customers of Bonus Card, Cornercard or Swiss Bankers can now provision their credit and prepaid cards for Apple Pay.</p><img src="http://photos.appleinsidercdn.com/gallery/17482-15046-17229-14516-applepay-switzerlandiphone-l-xl.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Apple Pay launches in Switzerland with Visa and Mastercard support</h1><p>As promised in June, Apple on Thursday introduced its in-house payments solution Apple Pay to customers in Switzerland, offering initial support for both Visa and Mastercard credit cards. Announced through Apple's regional website, iPhone users in Switzerland who are also customers of Bonus Card, Cornercard or Swiss Bankers can now provision their credit and prepaid cards for Apple Pay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b6f35f1aed94b25d8c1f0356ed4a8c8/noop.jpg?input=http%3A%2F%2Fphotos.appleinsidercdn.com%2Fgallery%2F17482-15046-17229-14516-applepay-switzerlandiphone-l-xl.jpg"></article>]]></description>
             <link>http://iphone.appleinsider.com/articles/16/07/07/apple-pay-launches-in-switzerland-with-visa-and-mastercard-support</link>
             <guid isPermaLink="false">51de2d07-1c2b-4e14-be55-0dde80d6dbcd</guid>
             <pubDate>Fri, 08 Jul 2016 08:51:36 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.highsnobiety.com/2016/07/01/tim-cook-joins-nike/</link>
             <guid isPermaLink="false">f0c891a5-1044-48db-b1e3-dab778c1801b</guid>
             <pubDate>Fri, 01 Jul 2016 08:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brexit could be a huge setback for European startups]]></title>
-            <description><![CDATA[<article><h1>Brexit could be a huge setback for European startups</h1><p>To understand why the recent Brexit vote is a gigantic step in the wrong direction for European startups, take a close look at Outfittery, a Berlin-based ecommerce company. The Outfittery, founded in 2012 by Anna Alex and Julia Bösch to deliver a personalized fashion shopping experience, has raised more than $38 million in venture capital and has enjoyed steady growth.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/da30c545d259eb2c6af6a985441fb18a/noop.jpg?input=https%3A%2F%2Fventurebeat.com%2Fwp-content%2Fuploads%2F2016%2F06%2Fbrexit-780x533.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2016/06/27/brexit-could-be-a-huge-setback-for-european-startups/</link>
-            <guid isPermaLink="false">f58e0039-14e1-481d-9391-d497abd5b22c</guid>
-            <pubDate>Mon, 27 Jun 2016 19:29:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
