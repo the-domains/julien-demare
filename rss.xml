@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 13:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 11:11:16 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Untold Story Of How Bicycle Design Led To The Invention Of The Airplane]]></title>
+            <description><![CDATA[<article><h1>The Untold Story Of How Bicycle Design Led To The Invention Of The Airplane</h1><p>In the early 20th century, many in the scientific establishment insisted that a true flying machine was physically impossible. Nevertheless, cyclists could already "fly" at an altitude of five feet or so. The owners of "mechanical horses," as they were sometimes known, had no need of flying machines.</p><img src="http://c.fastcompany.net/multisite_files/fastcompany/imagecache/620x350/poster/2016/07/3061592-poster-p-1-how-bicycles-influenced-airplane-design.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3061592/the-untold-story-of-how-bicycle-design-led-to-the-invention-of-the-airplane</link>
+            <guid isPermaLink="false">8bc35cec-083e-46b4-8f3d-e65c6134f083</guid>
+            <pubDate>Sat, 09 Jul 2016 11:11:06 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Richard Branson: All cars electric by 2030]]></title>
-            <description><![CDATA[<article><h1>Richard Branson: All cars electric by 2030</h1><p>Join @NickiShields for the final Supercharged show of the 2015-16 season on July 10, 18:30 GMT on CNNi British entrepreneur Branson has been involved in the motorsport series from an early stage, with his DS Virgin Racing team competing in its first two seasons.</p><img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160707181122-branson-shields-large-tease.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Richard Branson: All cars electric by 2030</h1><p>Join @NickiShields for the final Supercharged show of the 2015-16 season on July 10, 18:30 GMT on CNNi British entrepreneur Branson has been involved in the motorsport series from an early stage, with his DS Virgin Racing team competing in its first two seasons.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07cb42eb720fe1b963e986964c2d97e6/noop.jpg?input=http%3A%2F%2Fi2.cdn.turner.com%2Fcnnnext%2Fdam%2Fassets%2F160707181122-branson-shields-large-tease.jpg"></article>]]></description>
             <link>http://edition.cnn.com/2016/07/08/motorsport/richard-branson-formula-e/</link>
             <guid isPermaLink="false">98640042-cf33-42a6-b8f8-3ce4ab8ac33a</guid>
             <pubDate>Fri, 08 Jul 2016 13:27:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.bloomberg.com/news/articles/2016-06-29/a-paypal-takeover-by-mastercard-would-destroy-value-bernstein-says</link>
             <guid isPermaLink="false">488768e7-3172-494d-850a-abf04f586226</guid>
             <pubDate>Fri, 01 Jul 2016 08:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple CEO Tim Cook Joins Nike as Lead Independent Director]]></title>
-            <description><![CDATA[<article><h1>Apple CEO Tim Cook Joins Nike as Lead Independent Director</h1><p>Today has proven to be quite the busy day for Nike. In addition to the official departure of Founder, Phil Knight, who will be replaced by Mark Parker who will continue to serve in the role of President and CEO - in addition to his new duties as Chairman - the Swoosh has also made public that Apple CEO, Tim Cook, will become Nike's Lead Independent Director after serving as chair of the board's compensation committee up until this point.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e9a7dcfac81eb290a4fcd64623ce297a/noop.jpg?input=http%3A%2F%2Fstatic.highsnobiety.com%2Fwp-content%2Fuploads%2F2016%2F07%2F01012957%2Ftim-cook-joins-nike-00.jpg"></article>]]></description>
-            <link>http://www.highsnobiety.com/2016/07/01/tim-cook-joins-nike/</link>
-            <guid isPermaLink="false">f0c891a5-1044-48db-b1e3-dab778c1801b</guid>
-            <pubDate>Fri, 01 Jul 2016 08:55:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
