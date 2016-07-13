@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare - E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 13:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 12:13:59 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google unveils new features for shopping ads and hotel search]]></title>
+            <description><![CDATA[<article><h1>Google unveils new features for shopping ads and hotel search</h1><p>Google is giving more tools to retail and travel businesses hoping to promote themselves through search results and ads. These new features were announced at a New York City press event this morning, and then outlined in an AdWords blog post. On the retail side, changes include a new Showcase Shopping ad format.</p><img src="https://tctechcrunch2011.files.wordpress.com/2014/04/5976264120_68e6352107_o.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>https://techcrunch.com/2016/07/12/google-shopping-and-travel/</link>
+            <guid isPermaLink="false">d215cec4-45e0-4829-844b-fcd814e50be1</guid>
+            <pubDate>Wed, 13 Jul 2016 12:13:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Amazon could learn from Yoox Net-a-Porter, the "world's biggest luxury fashion store"]]></title>
@@ -68,13 +75,6 @@
             <link>https://techcrunch.com/2016/07/05/startups-need-to-respect-the-laws-of-retail-physics/</link>
             <guid isPermaLink="false">0bd0e0fe-8d94-4d49-982d-6731b69e9894</guid>
             <pubDate>Tue, 05 Jul 2016 20:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bidroom secures €1 million funding, goes global this year #NLTech]]></title>
-            <description><![CDATA[<article><h1>Bidroom secures €1 million funding, goes global this year #NLTech</h1><p>A Booking-com-killer might seem a bit over-ambitious. But while they are not quite there yet, travel-startup Bidroom is still going strong, and growing fast. Today the company, based in The Hague, announces it raised €1 million from informal investors.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f78f8d09cb2d4ff695dbb974c3ffce56/noop.jpg?input=http%3A%2F%2Fsiliconcanals.nl%2Fwp-content%2Fuploads%2F2015%2F04%2Fbidroom.jpg"></article>]]></description>
-            <link>http://siliconcanals.nl/startups/bidroom-1-million-funding-global/?utm_content=bufferf0d39&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">51dbd5e5-8ade-4054-b995-86e0326b7201</guid>
-            <pubDate>Sat, 02 Jul 2016 11:22:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
