@@ -1,33 +1,32 @@
-typography_spectrum: 0.9652520902454853
-color:
-  brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  brandStrength: 0.29846833809278905
-  lightness: 0.5338679859414697
-  saturation: 0.5644467435777187
-  rhythmicContrast: 0.9615998915396631
-opengraph:
-  image: null
-  type: null
-  appId: '722925851180963'
+name: Julien Demare
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdf75e2-fccf-4789-a747-769150c85b7e.ico
 layout_spectrum: 0.16902427980676293
-analytics:
-  google: UA-48816933-2
-  facebook: null
-  twitter: null
+typography_spectrum: 0.9652520902454853
 author:
   name: Julien Demare
   url: 'http://julien-demare.com/'
-name: Julien Demare
+title: Julien Demare - E-Commerce and Payments Specialist
 cta:
   domain: null
   bucket: null
   version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdf75e2-fccf-4789-a747-769150c85b7e.ico
-title: Julien Demare - E-Commerce and Payments Specialist
+analytics:
+  google: UA-48816933-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: '722925851180963'
+color:
+  brandColors:
+    - '#ffffff'
+    - '#ec1c24'
+    - '#000000'
+    - '#afafaf'
+  brandStrength: 0.29846833809278905
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.9615998915396631
 purpose: []
