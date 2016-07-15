@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'You can follow me on:'
-datePublished: '2016-07-15T18:27:23.246Z'
-dateModified: '2016-07-15T18:25:50.926Z'
+datePublished: '2016-07-15T18:27:54.503Z'
+dateModified: '2016-07-15T18:27:37.155Z'
 title: Social Medias
 author: []
 sourcePath: _posts/2016-07-15-social-medias.md
@@ -21,14 +21,16 @@ _type: WebPage
 
 You can follow me on:
 
-* LinkedIn
-* [Twitter][0]
-* [Facebook][1]
-* [Google Plus][2]
-* [Viadeo][3]
-* AboutMe
+* [LinkedIn][0]
+* [Twitter][1]
+* [Facebook][2]
+* [Google Plus][3]
+* [Viadeo][4]
+* [AboutMe][5]
 
-[0]: https://www.twitter.com/juliendemare
-[1]: https://www.facebook.com/demare.julien "Facebook"
-[2]: http://plus.google.com/103346913450658227036/ "Julien Demare Google Plus Profile"
-[3]: http://www.viadeo.com/en/profile/julien-demare "Julien Demare Viadeo Profile"
+[0]: http://www.linkedin.com/in/juliendemare
+[1]: https://www.twitter.com/juliendemare
+[2]: https://www.facebook.com/demare.julien "Facebook"
+[3]: http://plus.google.com/103346913450658227036/ "Julien Demare Google Plus Profile"
+[4]: http://www.viadeo.com/en/profile/julien-demare "Julien Demare Viadeo Profile"
+[5]: https://about.me/julien.demare
