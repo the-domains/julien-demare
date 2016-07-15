@@ -1,15 +1,20 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: 'You can follow me on:'
-dateModified: '2016-07-15T18:24:10.263Z'
-datePublished: '2016-07-15T18:24:50.583Z'
+datePublished: '2016-07-15T18:27:23.246Z'
+dateModified: '2016-07-15T18:25:50.926Z'
 title: Social Medias
 author: []
-starred: false
 sourcePath: _posts/2016-07-15-social-medias.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: social-medias/index.html
+_type: WebPage
 
 ---
 # Social Medias
