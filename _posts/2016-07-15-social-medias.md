@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'You can follow me on:'
-datePublished: '2016-07-15T18:27:54.503Z'
-dateModified: '2016-07-15T18:27:37.155Z'
+datePublished: '2016-07-20T17:18:09.003Z'
+dateModified: '2016-07-15T18:31:31.243Z'
 title: Social Medias
 author: []
 sourcePath: _posts/2016-07-15-social-medias.md
