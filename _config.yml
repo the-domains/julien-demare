@@ -1,33 +1,4 @@
-name: Julien Demare
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdf75e2-fccf-4789-a747-769150c85b7e.ico
-layout_spectrum: 0.7326147784478962
 typography_spectrum: 0.9921815365087241
-author:
-  name: Julien Demare
-  url: 'http://julien-demare.com/'
-navigation:
-  - id: 'http://www.linkedin.com/in/juliendemare'
-    url: 'http://www.linkedin.com/in/juliendemare'
-    name: LinkedIn
-    type: external
-  - id: 'https://www.twitter.com/juliendemare'
-    url: 'https://www.twitter.com/juliendemare'
-    name: Twitter
-    type: external
-title: Julien Demare - E-Commerce and Payments Specialist
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-48816933-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: '722925851180963'
 color:
   brandColors:
     - '#ffffff'
@@ -39,4 +10,33 @@ color:
   lightness: 1
   saturation: 0.625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: '722925851180963'
+layout_spectrum: 0.7326147784478962
+analytics:
+  google: UA-48816933-2
+  facebook: null
+  twitter: null
+author:
+  name: Julien Demare
+  url: 'http://julien-demare.com/'
+name: Julien Demare
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 'http://www.linkedin.com/in/juliendemare'
+    url: 'http://www.linkedin.com/in/juliendemare'
+    name: LinkedIn
+    type: external
+  - id: 'https://www.twitter.com/juliendemare'
+    url: 'https://www.twitter.com/juliendemare'
+    name: Twitter
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdf75e2-fccf-4789-a747-769150c85b7e.ico
+title: E-Commerce and Payments Specialist
 purpose: []
