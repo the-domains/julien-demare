@@ -4,7 +4,7 @@
         <description><![CDATA[E-Commerce and Payments Specialist]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 09:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 10:26:38 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk is coming for Uber, along with everyone else]]></title>
+            <description><![CDATA[<article><h1>Elon Musk is coming for Uber, along with everyone else</h1><p>The threat was buried at the bottom of Elon Musk's July 20 update to his "Master Plan," three short paragraphs in a section unassumingly titled, "Sharing." "You will also be able to add your car to the Tesla shared fleet just by tapping a button on the Tesla phone app and have it generate income for...</p><img src="https://i1.wp.com/qzprod.files.wordpress.com/2016/07/elon-musk-gesturing-e1469133300321.jpg?fit=440%2C330&quality=80&strip=all&ssl=1"></article>]]></description>
+            <link>http://qz.com/738595/elon-musk-is-coming-for-uber-along-with-everyone-else/</link>
+            <guid isPermaLink="false">e44fe7ac-8db5-48fb-aa19-034b4a706568</guid>
+            <pubDate>Sat, 23 Jul 2016 10:26:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dollar Shave Club just sold for $1 billion to Unilever]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nytimes.com/2016/07/04/business/amazon-is-quietly-eliminating-list-prices.html?_r=0</link>
             <guid isPermaLink="false">f2862686-8709-4439-b2e4-c342b67ace67</guid>
             <pubDate>Tue, 05 Jul 2016 23:08:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In a year, Amazon and Alibaba will dominate Indian ecommerce: Vijay Shekhar Sharma - The Economic Times]]></title>
-            <description><![CDATA[<article><h1>In a year, Amazon and Alibaba will dominate Indian ecommerce: Vijay Shekhar Sharma - The Economic Times</h1><p>NEW DELHI:The fight for India's lucrative ecommerce market will be mainly between Amazon and Alibaba, with the contours of the battle likely to be clearer in about a year, says Vijay Shekhar Sharma, chief executive officer of Paytm, a company backed by the Chinese online retailing giant.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/672c123b-fb70-482e-abdf-63cdffc313f5.jpg"></article>]]></description>
-            <link>http://m.economictimes.com/industry/services/retail/in-a-year-amazon-and-alibaba-will-dominate-indian-ecommerce-vijay-shekhar-sharma/articleshow/53037420.cms</link>
-            <guid isPermaLink="false">d9172099-75d8-4317-8365-a67cb33829d2</guid>
-            <pubDate>Tue, 05 Jul 2016 20:03:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
