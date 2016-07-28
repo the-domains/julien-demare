@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[E-Commerce and Payments Specialist]]></title>
-        <description><![CDATA[E-Commerce and Payments Specialist]]></description>
+        <title><![CDATA[Julien Demare]]></title>
+        <description><![CDATA[Julien Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 10:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 20:49:28 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Rocket Internet to launch European bank]]></title>
+            <description><![CDATA[<article><h1>Rocket Internet to launch European bank</h1><p>Berlin-based company building powerhouse Rocket Internet plans to launch a new digital bank for European customers as part of a push on financial services technology. The firm has teamed up with Frankfurt-based FinTech Group AG, which offers white label financial services, to create digital banking services in the region with Rocket using the company's tech infrastructure and liabilities.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b40c027a-f59b-40a7-8bb7-540defb970c1.jpg"></article>]]></description>
+            <link>http://www.paymenteye.com/2016/07/27/rocket-internet-to-launch-european-bank/</link>
+            <guid isPermaLink="false">b228821b-0fa1-43af-96ce-fd0354c33d4a</guid>
+            <pubDate>Thu, 28 Jul 2016 20:48:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Elon Musk is coming for Uber, along with everyone else]]></title>
-            <description><![CDATA[<article><h1>Elon Musk is coming for Uber, along with everyone else</h1><p>The threat was buried at the bottom of Elon Musk's July 20 update to his "Master Plan," three short paragraphs in a section unassumingly titled, "Sharing." "You will also be able to add your car to the Tesla shared fleet just by tapping a button on the Tesla phone app and have it generate income for...</p><img src="https://i1.wp.com/qzprod.files.wordpress.com/2016/07/elon-musk-gesturing-e1469133300321.jpg?fit=440%2C330&quality=80&strip=all&ssl=1"></article>]]></description>
+            <description><![CDATA[<article><h1>Elon Musk is coming for Uber, along with everyone else</h1><p>The threat was buried at the bottom of Elon Musk's July 20 update to his "Master Plan," three short paragraphs in a section unassumingly titled, "Sharing." "You will also be able to add your car to the Tesla shared fleet just by tapping a button on the Tesla phone app and have it generate income for...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f203db13fca6b5655f2c589e08525888/noop.jpg?input=https%3A%2F%2Fi1.wp.com%2Fqzprod.files.wordpress.com%2F2016%2F07%2Felon-musk-gesturing-e1469133300321.jpg%3Ffit%3D440%252C330%26quality%3D80%26strip%3Dall%26ssl%3D1"></article>]]></description>
             <link>http://qz.com/738595/elon-musk-is-coming-for-uber-along-with-everyone-else/</link>
             <guid isPermaLink="false">e44fe7ac-8db5-48fb-aa19-034b4a706568</guid>
             <pubDate>Sat, 23 Jul 2016 10:26:11 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.recode.net/2016/7/7/12107608/car-wars-automous-automotive-tech-intel-mobileye</link>
             <guid isPermaLink="false">6b50f8e4-06bf-4274-8c6a-27d52e8ffd00</guid>
             <pubDate>Thu, 07 Jul 2016 15:34:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon Is Quietly Eliminating List Prices]]></title>
-            <description><![CDATA[<article><h1>Amazon Is Quietly Eliminating List Prices</h1><p>"They still need to showcase deals, but the question is, How?" said Michael Kovarik, who runs a comparison-pricing start-up called Rout. That is why stores love big discounts: they work. In studies by Mr. Compeau and others, the perception of a deal is often what makes the purchase happen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/891ad7f1f3086934ddb400bb8fd137fd/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F07%2F04%2Fbusiness%2F04amazon1%2F04amazon1-facebookJumbo.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.nytimes.com/2016/07/04/business/amazon-is-quietly-eliminating-list-prices.html?_r=0</link>
-            <guid isPermaLink="false">f2862686-8709-4439-b2e4-c342b67ace67</guid>
-            <pubDate>Tue, 05 Jul 2016 23:08:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
