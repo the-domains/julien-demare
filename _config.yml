@@ -30,15 +30,13 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 'http://www.linkedin.com/in/juliendemare'
+  - name: LinkedIn
     url: 'http://www.linkedin.com/in/juliendemare'
-    name: LinkedIn
     type: external
-  - id: 'https://www.twitter.com/juliendemare'
+  - name: Twitter
     url: 'https://www.twitter.com/juliendemare'
-    name: Twitter
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdf75e2-fccf-4789-a747-769150c85b7e.ico
-title: E-Commerce and Payments Specialist
+title: Julien Demare
 purpose: []
