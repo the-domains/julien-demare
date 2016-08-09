@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 12:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 19:40:34 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You're a travel agent! You're a travel agent! Everyone's a travel agent!]]></title>
+            <description><![CDATA[<article><h1>You're a travel agent! You're a travel agent! Everyone's a travel agent!</h1><p>Amsterdam-based TRVL is aiming to shake up the travel industry by turning you (and that guy, and the lady over there and that chap over there, too) into a travel agent. The platform is a sharing-economy approach to booking travel for your friends and complete and utter strangers.</p><img src="https://tctechcrunch2011.files.wordpress.com/2016/08/14-lifestyle_desktop5.jpg?w=764&h=400&crop=1"></article>]]></description>
+            <link>https://techcrunch.com/2016/08/09/trvl/</link>
+            <guid isPermaLink="false">d2c4d2d4-10ec-44b6-9bdc-459cf295c101</guid>
+            <pubDate>Tue, 09 Aug 2016 19:40:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amazon shatters earnings expectations]]></title>
@@ -68,13 +75,6 @@
             <link>http://edition.cnn.com/2016/07/08/motorsport/richard-branson-formula-e/</link>
             <guid isPermaLink="false">98640042-cf33-42a6-b8f8-3ce4ab8ac33a</guid>
             <pubDate>Fri, 08 Jul 2016 13:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Pay launches in Switzerland with Visa and Mastercard support]]></title>
-            <description><![CDATA[<article><h1>Apple Pay launches in Switzerland with Visa and Mastercard support</h1><p>As promised in June, Apple on Thursday introduced its in-house payments solution Apple Pay to customers in Switzerland, offering initial support for both Visa and Mastercard credit cards. Announced through Apple's regional website, iPhone users in Switzerland who are also customers of Bonus Card, Cornercard or Swiss Bankers can now provision their credit and prepaid cards for Apple Pay.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0b6f35f1aed94b25d8c1f0356ed4a8c8/noop.jpg?input=http%3A%2F%2Fphotos.appleinsidercdn.com%2Fgallery%2F17482-15046-17229-14516-applepay-switzerlandiphone-l-xl.jpg"></article>]]></description>
-            <link>http://iphone.appleinsider.com/articles/16/07/07/apple-pay-launches-in-switzerland-with-visa-and-mastercard-support</link>
-            <guid isPermaLink="false">51de2d07-1c2b-4e14-be55-0dde80d6dbcd</guid>
-            <pubDate>Fri, 08 Jul 2016 08:51:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
