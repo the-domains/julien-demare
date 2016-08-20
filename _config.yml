@@ -22,8 +22,7 @@ analytics:
 author:
   name: Julien Demare
   url: 'http://julien-demare.com/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac0b1779-3087-4b78-9b7a-21350e44c287.png
+logo: null
 name: Julien Demare
 cta:
   domain: null
@@ -38,6 +37,6 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdf75e2-fccf-4789-a747-769150c85b7e.ico
-title: Julien Demare
+title: E-Commerce addict!
 description: E-Commerce and Payments Specialist
 purpose: []
