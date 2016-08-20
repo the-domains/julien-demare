@@ -4,7 +4,7 @@
         <description><![CDATA[Julien Demare]]></description>
         <link>http://julien-demare.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 21:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 23:31:13 GMT</lastBuildDate>
         <atom:link href="http://julien-demare.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://julien-demare.com/welcome/index.html</link>
             <guid isPermaLink="false">76eabde2-e90a-4d8e-a136-ae916d4fbea0</guid>
             <pubDate>Sun, 26 Jun 2016 10:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[These Dutch fashion startups make your wardrobe affordable and sustainable | Silicon Canals]]></title>
+            <description><![CDATA[<article><h1>These Dutch fashion startups make your wardrobe affordable and sustainable | Silicon Canals</h1><p>This article will take you 4 minute(s) to read Don't want to take out a second mortgage on your house to buy that amazing Armani dress? Looking for that perfect pair of vintage sneakers to complete your wardrobe?</p><img src="http://siliconcanals.nl/wp-content/uploads/2016/08/Closet.jpg"></article>]]></description>
+            <link>http://siliconcanals.nl/startups/dutch-fashion-startups-make-wardrobe-affordable/</link>
+            <guid isPermaLink="false">41e6f7e2-59a8-457f-9512-68977255e7fc</guid>
+            <pubDate>Fri, 19 Aug 2016 23:31:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You're a travel agent! You're a travel agent! Everyone's a travel agent!]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.fastcodesign.com/3061592/the-untold-story-of-how-bicycle-design-led-to-the-invention-of-the-airplane?utm_source=homepage&amp;utm_medium=web&amp;utm_campaign=storybandhomepage</link>
             <guid isPermaLink="false">14c0e63c-071a-4efe-b4cd-3a77b13445ec</guid>
             <pubDate>Sat, 09 Jul 2016 12:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Richard Branson: All cars electric by 2030]]></title>
-            <description><![CDATA[<article><h1>Richard Branson: All cars electric by 2030</h1><p>Join @NickiShields for the final Supercharged show of the 2015-16 season on July 10, 18:30 GMT on CNNi British entrepreneur Branson has been involved in the motorsport series from an early stage, with his DS Virgin Racing team competing in its first two seasons.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/07cb42eb720fe1b963e986964c2d97e6/noop.jpg?input=http%3A%2F%2Fi2.cdn.turner.com%2Fcnnnext%2Fdam%2Fassets%2F160707181122-branson-shields-large-tease.jpg"></article>]]></description>
-            <link>http://edition.cnn.com/2016/07/08/motorsport/richard-branson-formula-e/</link>
-            <guid isPermaLink="false">98640042-cf33-42a6-b8f8-3ce4ab8ac33a</guid>
-            <pubDate>Fri, 08 Jul 2016 13:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
