@@ -35,6 +35,9 @@ navigation:
   - name: Twitter
     url: 'https://www.twitter.com/juliendemare'
     type: external
+  - name: Byvry B.V.
+    url: 'http://www.byvry.com/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbdf75e2-fccf-4789-a747-769150c85b7e.ico
 title: Julien Demare
